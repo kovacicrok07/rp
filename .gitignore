@@ -4,3 +4,6 @@
 *.fdb_latexmk
 *.pdf
 *.synctex.gz
+*.bbl
+*.blg
+*.toc
